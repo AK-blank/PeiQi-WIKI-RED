@@ -4,7 +4,7 @@
 
 这个文库用于整合互联网上关于渗透测试的资料和技巧，与 [PeiQI  WiKi-POC文库](http://wiki.peiqi.tech) 相似，PeiQI  WiKi-RED文库 同样也是开源面向所有人的，大家可以随时在线翻阅或者下载本地搭建🐋
 
-![](PeiQi-WiKi/background/PeiQi文库.gif)
+![](PeiQi_WIKI/background/PeiQi文库.gif)
 
 ## 公众号和作者
 
@@ -12,9 +12,9 @@
 >
 > 更新的文章都会在第一时间推送在公众号，如果对文库有建议或者想要指出错误，可以扫一扫微信加我好友🐧
 
-![](PeiQi-Wiki/background/background.png)
+![](PeiQi_WIKI/background/background.png)
 
-![](PeiQi-Wiki/background/background_wx.png)
+![](PeiQi_WIKI/background/background_wx.png)
 
 ## 关于使用
 
@@ -64,5 +64,5 @@
 >
 > 别忘了Github下载完给个小星星⭐
 
-![](PeiQi-Wiki/background/image-2.png)
+![](PeiQi_WIKI/background/image-2.png)
 
