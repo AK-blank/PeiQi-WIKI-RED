@@ -3,11 +3,11 @@
 
 * [信息收集](PeiQi_Wiki/信息收集/README.md)
 	* [搜索引擎](PeiQi_Wiki/信息收集/搜索引擎/README.md)
-		* [Google](PeiQi_Wiki/信息收集/搜索引擎/Google/README.md)	
-		* [网络测绘](PeiQi_Wiki/信息收集/搜索引擎/网络测绘/README.md)
+		* [Google](PeiQi_Wiki/信息收集/搜索引擎/Google/Google.md)	
+		* [网络测绘](PeiQi_Wiki/信息收集/搜索引擎/网络测绘/网络测绘.md)
 * [漏洞挖掘](PeiQi_Wiki/漏洞挖掘/README.md)
 	* [API密钥泄露](PeiQi_Wiki/漏洞挖掘/API密钥泄露/README.md)
-		* [云服务器 Access 密钥泄露](PeiQi_Wiki/漏洞挖掘/API密钥泄露/云服务器 Access 密钥泄露/README.md)		
+		* [云服务器 Access 密钥泄露](PeiQi_Wiki/漏洞挖掘/API密钥泄露/云服务器 Access 密钥泄露/云服务器 Access 密钥泄露.md)		
 
 * [社会工程](PeiQi_Wiki/社会工程/README.md)
 
