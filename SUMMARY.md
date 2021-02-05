@@ -2,7 +2,7 @@
 
 
 * [信息收集](PeiQi_Wiki/信息收集/README.md)
-	* [搜索引擎](PeiQi_Wiki/信息收集/搜索引擎/README.md)
+	* [搜索引擎](PeiQi_Wiki/信息收集/README.md)
 		* [Google](PeiQi_Wiki/信息收集/搜索引擎/Google/Google.md)	
 		* [网络测绘](PeiQi_Wiki/信息收集/搜索引擎/网络测绘/网络测绘.md)
 * [漏洞挖掘](PeiQi_Wiki/漏洞挖掘/README.md)
