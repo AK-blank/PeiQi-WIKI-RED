@@ -28,6 +28,18 @@
 
 [码云链接](https://gitee.com/yelisenyu/red)
 
+> [!NOTE]
+>
+> 每个模块都有可用工具，有使用方法和一些技巧
+
+![](PeiQi_WIKI/background/image-4.png)
+
+> [!NOTE]
+>
+> 部分检测脚本放在POC目录中
+
+![](PeiQi_WIKI/background/image-5.png)
+
 ## 如何本地使用
 
 > [!NOTE]
